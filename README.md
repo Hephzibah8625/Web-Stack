@@ -13,7 +13,7 @@
 ### Projects: 
 
 * [KazanExpress B2B](https://github.com/Hephzibah8625/KazanExpressWebTask)
-
+* [Summer Inno Internship](https://github.com/Hephzibah8625/Summer-Inno-Internship)
 
 ## Back-end
 
