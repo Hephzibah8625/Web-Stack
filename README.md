@@ -14,6 +14,7 @@
 
 * [KazanExpress B2B](https://github.com/Hephzibah8625/KazanExpressWebTask)
 * [Summer Inno Internship](https://github.com/Hephzibah8625/Summer-Inno-Internship)
+* [Music Platform - Client](https://github.com/Hephzibah8625/MusicPlatform-Client)
 
 ## Back-end
 
@@ -29,7 +30,7 @@
 
 ### Projects: 
 
-* lol
+* [Music Platform - Server](https://github.com/Hephzibah8625/MusicPlatform-Server)
 
 
 
