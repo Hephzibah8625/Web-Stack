@@ -14,7 +14,12 @@
 
 * [KazanExpress B2B](https://github.com/Hephzibah8625/KazanExpressWebTask)
 * [Summer Inno Internship](https://github.com/Hephzibah8625/Summer-Inno-Internship)
-* [Music Platform - Client](https://github.com/Hephzibah8625/MusicPlatform-Client)
+* [Music Platform - Client [DEV]](https://github.com/Hephzibah8625/MusicPlatform-Client)
+
+### Books
+
+* Effective TypeScript: 62 Specific Ways to Improve Your TypeScript by Dan Vanderkam
+* Vue.js in Action by Erik Hanchett and Benjamin Listwon
 
 ## Back-end
 
@@ -30,7 +35,7 @@
 
 ### Projects: 
 
-* [Music Platform - Server](https://github.com/Hephzibah8625/MusicPlatform-Server)
+* [Music Platform - Server [DEV]](https://github.com/Hephzibah8625/MusicPlatform-Server)
 
 
 
