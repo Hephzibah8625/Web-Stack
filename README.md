@@ -1,8 +1,12 @@
 # Web Portfolio
 
+## Work Experience
+
+* [Junior Full-Stack Developer [SteadyControl]](https://steadycontrol.com)
+
 ## Front-end
 
-### Default: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### Default: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-hotpink.svg?style=for-the-badge&logo=stylus&logoColor=white)
 
 ### Script: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -15,6 +19,7 @@
 * [KazanExpress B2B](https://github.com/Hephzibah8625/KazanExpressWebTask)
 * [Summer Inno Internship](https://github.com/Hephzibah8625/Summer-Inno-Internship)
 * [Music Platform - Client [DEV]](https://github.com/Hephzibah8625/MusicPlatform-Client)
+* [ak-su116.ru](http://ak-su116.ru)
 
 ### Books
 
