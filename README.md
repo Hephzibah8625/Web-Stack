@@ -2,7 +2,7 @@
 
 ## Work Experience
 
-* [Junior Full-Stack Developer [SteadyControl]](https://steadycontrol.com)
+* [Full-Stack Web Engineer [SteadyControl] (~1.5 year self-employed)](https://steadycontrol.com) 
 
 ## Front-end
 
@@ -10,21 +10,27 @@
 
 ### Script: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Client-Side Frameworks: ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+### Client-Side Frameworks: ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![](https://avatars.githubusercontent.com/u/23064371?s=28&v=4) ![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Server-Side Frameworks: ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)
+
+### Style: ![](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
 
 ### Projects: 
 
 * [KazanExpress B2B](https://github.com/Hephzibah8625/KazanExpressWebTask)
-* [Summer Inno Internship](https://github.com/Hephzibah8625/Summer-Inno-Internship)
+* [Summer Inno Internship 2021](https://github.com/Hephzibah8625/Summer-Inno-Internship)
 * [Music Platform - Client [DEV]](https://github.com/Hephzibah8625/MusicPlatform-Client)
 * [ak-su116.ru](http://ak-su116.ru)
+* Summer Inno Internship 2022 (React Project Managing Dashboard)
 
 ### Books
 
-* Effective TypeScript: 62 Specific Ways to Improve Your TypeScript by Dan Vanderkam
-* Vue.js in Action by Erik Hanchett and Benjamin Listwon
+* "Effective TypeScript: 62 Specific Ways to Improve Your TypeScript" by Dan Vanderkam
+* "Vue.js in Action" by Erik Hanchett and Benjamin Listwon
+* "JavaScript для FrontEnd-разработчиков. Написание. Тестирование. Развертывание" by Кириченко А.В.
 
 ## Back-end
 
