@@ -22,6 +22,7 @@
 
 * [KazanExpress B2B](https://github.com/Hephzibah8625/KazanExpressWebTask)
 * [Summer Inno Internship 2021](https://github.com/Hephzibah8625/Summer-Inno-Internship)
+* [AstraLinuxTask](https://github.com/Hephzibah8625/AstraLinuxTask)
 * [Music Platform - Client [DEV]](https://github.com/Hephzibah8625/MusicPlatform-Client)
 * [ak-su116.ru](http://ak-su116.ru)
 * Summer Inno Internship 2022 (React Project Managing Dashboard)
